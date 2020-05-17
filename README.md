@@ -1,8 +1,8 @@
--------
 NetSoc
 -------
-A simple wrapper module for Python3's socket module to help in easy transmission of objects in networks
--------
+A simple wrapper module for Python3's socket module   
+to help in easy transmission of objects in networks
+
 Instructions
 -------
 Create netsoc object:  
