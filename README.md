@@ -8,15 +8,15 @@ Instructions
 Create netsoc object:  
 <code>
 ns = netsoc(role=[client/server],target=(ip,port))
-</code>
+</code>  
 Send object:  
-<code>
+<code>  
 [netsoc object].send([object to send])  
-</code>
+</code>  
 Recieve object:  
-<code>
+<code>  
 [netsoc object].recv()  
-</code>
+</code>  
 Target argument:  
   For client - IP and port of server  
   For server - IP(localhost) and port to listen  
