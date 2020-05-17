@@ -7,8 +7,14 @@ Instructions
 -------
 Create netsoc object:  
 <code>
-ns = netsoc(role=[client/server],target=(ip,port))  
+ns = netsoc(role=[client/server],target=(ip,port))
+</code>
+Send object:  
+<code>
 [netsoc object].send([object to send])  
+</code>
+Recieve object:  
+<code>
 [netsoc object].recv()  
 </code>
 Target argument:  
