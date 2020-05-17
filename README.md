@@ -20,3 +20,4 @@ Recieve object:
 Target argument:  
   For client - IP and port of server  
   For server - IP(localhost) and port to listen  
+Refer to module's documentation for more info
